@@ -11,10 +11,9 @@ from pathlib import Path
 parser = ArgumentParser(
 	description = 
 	'''
-	Concatenate fastq.gz files that have the same name but are in different directory (i.e. same sample, multiple sequencing runs).
-	Files must be gzipped.
+	Goal: Concatenate fastq.gz files that have the same name but are in different directory (i.e. same sample, multiple sequencing runs).
+	Files must be all have the same extension (specify in command).
 	Give full directory paths. Relative paths will probably break things (not tested).
-	Include the final slash (/) on all input and output directories.
 	Output directory MUST be different from input directory or you will overwrite original files and be in REAL trouble.
 	''')
 parser.add_argument('-i', '--inputdirs', nargs='+', default=[],
@@ -27,6 +26,15 @@ args = parser.parse_args()
 
 # Make output directory if not preexisting
 Path(args.outdir).mkdir(parents=True, exist_ok=True)
+
+# Add slashes to end of dirs if not already there
+for i in range(len(args.inputdirs)):
+	if args.inputdirs[i].endswith('/') == False:
+		args.inputdirs[i] = args.inputdirs[i] + '/'
+
+if args.outdir.endswith('/') == False:
+	args.outdir = args.outdir + '/'
+
 
 # Find sample names
 #Presumes all samples are in the first directory on the list!
@@ -55,7 +63,7 @@ for f in filepaths:
 
 	samplename = f.split('.')[0] # Take sample name before first period
 	cmd = f'cat {tocat} > {args.outdir}{samplename}.{args.extension}'
-	print(f'Will create {args.outdir}{samplename}.{args.extension}')
+	print(f'Created {args.outdir}{samplename}.{args.extension}')
 	os.system(cmd) # Uncomment after testing if you're sure!
 
 # print(cmd) # For testing
