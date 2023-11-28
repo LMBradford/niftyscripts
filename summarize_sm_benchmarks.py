@@ -16,9 +16,10 @@ parser = ArgumentParser(
     ''')
 parser.add_argument('-c', '--columns', nargs = '+', choices={"s", "max_rss", "max_vms", "max_uss", "max_pss", "io_in", "io_out", "mean_load", "cpu_time"},
     help = 'Columns for which you want summary data.')
+parser.add_argument('-o', '--output_file', help='Path to the output TSV file', required=True)
 args = parser.parse_args()
 
-# Specify the path to your files (adjust the pattern as needed)
+# Get file names
 files_pattern = 'benchmark.*.txt'
 
 # Use glob to get a list of file paths matching the pattern
@@ -51,30 +52,17 @@ combined_df = pd.concat(dfs, axis=0, ignore_index=True)
 # Reset index
 combined_df = combined_df.reset_index(drop=True)
 
-### SAVE COMBINED DF TO FILE?
-
-# summary_df = combined_df[['rule', 's', 'mean_load']]
-
-# grouped_df = summary_df.groupby('rule').agg(
-#     count=('s', 'count'),
-#     mean_s=('s', 'mean'),
-#     total_s=('s', 'sum'),
-#     mean_mean_load=('mean_load', 'mean'),
-#     total_mean_load=('mean_load', 'sum')
-# ).reset_index()
-
-# # Display the result
-# print(grouped_df)
-
 grouped_df = combined_df.groupby('rule')
 
 # Create an empty DataFrame to store the results
 result_df = pd.DataFrame()
 
-# Iterate through the specified columns and calculate count, mean, and total
+# Calculate count for the "rule" column
+result_df['rule_count'] = grouped_df['rule'].count()
+
+# Iterate through the specified columns and calculate mean and total
 for column in args.columns:
     if column in df.columns:
-        result_df[f'{column}_count'] = grouped_df[column].count()
         result_df[f'{column}_mean'] = grouped_df[column].mean()
         result_df[f'{column}_total'] = grouped_df[column].sum()
 
@@ -83,3 +71,8 @@ result_df.reset_index(inplace=True)
 
 # Display the result
 print(result_df)
+
+# Save the result DataFrame to a TSV file
+result_df.to_csv(args.output_file, sep='\t', index=False)
+
+print(f"Result saved to {args.output_file}")
