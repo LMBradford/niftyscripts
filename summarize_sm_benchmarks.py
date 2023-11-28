@@ -14,9 +14,12 @@ parser = ArgumentParser(
     Produces a summary table from all the benchmark files in the directory where it's run.
     Use the -c flag to enter columns of interest.
     ''')
-parser.add_argument('-c', '--columns', nargs = '+', choices={"s", "max_rss", "max_vms", "max_uss", "max_pss", "io_in", "io_out", "mean_load", "cpu_time"},
+parser.add_argument('-c', '--columns', nargs = '+', required = True,
+    choices={"s", "max_rss", "max_vms", "max_uss", "max_pss", "io_in", "io_out", "mean_load", "cpu_time"},
     help = 'Columns for which you want summary data.')
 parser.add_argument('-o', '--output_file', help='Path to the output TSV file', required=True)
+parser.add_argument('-t', '--tag', required = True, type = str,
+    help='Unique identifier for the dataset/infrastructure/environment. To facilitate comparison across different runs.')
 args = parser.parse_args()
 
 # Get file names
@@ -68,6 +71,9 @@ for column in args.columns:
 
 # Reset the index to make "rule" a regular column
 result_df.reset_index(inplace=True)
+
+# Add tag column
+result_df['Tag'] = args.tag
 
 # Display the result
 print(result_df)
