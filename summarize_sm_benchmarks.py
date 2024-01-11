@@ -14,6 +14,8 @@ parser = ArgumentParser(
     Produces a summary table from all the benchmark files in the directory where it's run.
     Use the -c flag to enter columns of interest.
     ''')
+parser.add_argument('-i', '--input', nargs = 1, required = True,
+                    help='Path to the directory containing benchmark files.')
 parser.add_argument('-c', '--columns', nargs = '+', required = True,
     choices={"s", "max_rss", "max_vms", "max_uss", "max_pss", "io_in", "io_out", "mean_load", "cpu_time"},
     help = 'Columns for which you want summary data.')
@@ -22,8 +24,12 @@ parser.add_argument('-t', '--tag', required = True, type = str,
     help='Unique identifier for the dataset/infrastructure/environment. To facilitate comparison across different runs.')
 args = parser.parse_args()
 
+# Add trailing slash to input path if needed
+if args.input[0].endswith('/') == False:
+	args.input[0] = args.input[0] + '/'
+
 # Get file names
-files_pattern = 'benchmark.*.txt'
+files_pattern = os.path.join(args.input[0], 'benchmark.*.txt')
 
 # Use glob to get a list of file paths matching the pattern
 file_paths = glob.glob(files_pattern)
@@ -75,8 +81,6 @@ result_df.reset_index(inplace=True)
 # Add tag column
 result_df['Tag'] = args.tag
 
-# Display the result
-print(result_df)
 
 # Save the result DataFrame to a TSV file
 result_df.to_csv(args.output_file, sep='\t', index=False)
