@@ -12,7 +12,8 @@ parser = ArgumentParser(
     description = 
     '''
     Produces a summary table from all the benchmark files in the directory where it's run.
-    Use the -c flag to enter columns of interest.
+    Use the -c flag to enter columns of interest, separated by spaces.
+    example usage: python3 scripts/summarize_sm_benchmarks.py -i output/logs/ -c s mean_load -o output/logs/summary.txt -t test
     ''')
 parser.add_argument('-i', '--input', nargs = 1, required = True,
                     help='Path to the directory containing benchmark files.')
