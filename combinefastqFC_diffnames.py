@@ -1,6 +1,11 @@
 # Concatenate files with different names in the same directory
 # Usage: python combinefastqFC_diffnames.py -o /path/to/output/directory
 
+# Edit either glob pattern on line 20
+## Or items in split function on line 27
+## To match file names of the moment
+## I will update the script to make it more general at some point!
+
 import os
 import glob
 import argparse
@@ -29,6 +34,11 @@ def concatenate_files(input_directory=None, output_directory=None):
     # Concatenate files in each group
     for pattern, file_group in pattern_dict.items():
         output_file = os.path.join(output_directory, f'{pattern}.fastq.gz')
+        # Check if output file already exists
+        if os.path.exists(output_file):
+            print(f"Output file {output_file} already exists. Skipping...")
+            continue
+
         print(f"Files {', '.join(file_group)} were concatenated to {output_file}")
         with open(output_file, 'wb') as outfile:
             for file in file_group:
@@ -41,3 +51,5 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     concatenate_files(output_directory=args.output)
+
+
