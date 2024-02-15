@@ -10,6 +10,7 @@ parser.add_argument('column', type=str, help='Name of the column containing DNA 
 parser.add_argument('output_file', type=str, help='Path to the output file')
 parser.add_argument('--delimiter', type=str, default=',',
                     choices=[',', 'tab'], help='Delimiter used in the input file. Options: tab or ,')
+parser.add_argument('--skip', type=int, default=0, help='Number of lines to skip before the table begins in input file')
 args = parser.parse_args()
 
 input_file = args.input_file
@@ -18,9 +19,9 @@ output_file = args.output_file
 
 # Read the file into a pandas DataFrame
 if args.delimiter == ",":
-    df = pd.read_csv(input_file)
+    df = pd.read_csv(input_file, skiprows=args.skip)
 if args.delimiter == "tab":
-    df = pd.read_csv(input_file, sep="\t")  
+    df = pd.read_csv(input_file, sep="\t", skiprows=args.skip)  
 
 # Reverse complement the DNA sequences in the specified column
 df[f'{column_name}_revcomp'] = df[column_name].apply(lambda seq: str(Seq.Seq(seq).reverse_complement()))
@@ -31,3 +32,5 @@ if args.delimiter == ",":
     df.to_csv(output_file, index=False)
 if args.delimiter == "tab":
     df.to_csv(output_file, index=False, sep="\t")
+
+print(f'Created {output_file}.')
