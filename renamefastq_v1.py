@@ -10,7 +10,12 @@ FNAMES = glob('*_S*_R*_001.fastq.gz')
 print(FNAMES)
 
 for fname in FNAMES:
-  sample = fname.split("_")[0]
+#  sample1 = fname.split("_")[0]
+  sections = fname.split("_")[:4]
+  #Need an underscore between each section 
+
+  sample = "_".join(sections)
+
 #  prefix = fname.split("_")[1]
 #  fwdrev = fname.split("_")[5]
   
