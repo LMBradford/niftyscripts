@@ -1,7 +1,8 @@
-# NOTE: probably need to add skiprows to the read_csv line. Add an argument for it?
 import argparse
 import pandas as pd
 from Bio import Seq
+
+# Usage: python reverse_complement.py input.csv sequence_column output.csv --delimiter tab --skip 1
 
 # Create an argument parser
 parser = argparse.ArgumentParser(description='Reverse complement DNA sequences in a CSV file.')
