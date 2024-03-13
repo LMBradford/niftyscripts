@@ -27,7 +27,10 @@ def count_fastq_reads(directory=None, output_file=args.OutputFile):
         directory = os.getcwd()
 
     # Get all fastq.gz files matching a given pattern
-    files = glob.glob(f'{args.prefix}*.fastq.gz')
+    if args.prefix:
+        files = glob.glob(f'{args.prefix}*.fastq.gz')
+    else:
+        files = glob.glob('*.fastq.gz')
     print(files)
     # List to store the results
     data = []
