@@ -1,3 +1,5 @@
+# Usage: python count_fastqreads_rough.py -o output.csv --prefix 'SRR'
+
 import os
 import glob
 import subprocess
