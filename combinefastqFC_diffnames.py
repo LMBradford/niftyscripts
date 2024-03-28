@@ -1,10 +1,8 @@
 # Concatenate files with different names in the same directory
-# Usage: python combinefastqFC_diffnames.py -o /path/to/output/directory
+# Use in the directory containing the files to be combined
 
-# Edit either glob pattern on line 20
-## Or items in split function on line 27
-## To match file names of the moment
-## I will update the script to make it more general at some point!
+# Usage:    python combinefastqFC_diffnames.py -o outputdir -s '_FC'        
+
 
 import os
 import glob
@@ -26,7 +24,7 @@ def concatenate_files(input_directory=None, output_directory=None):
     pattern_dict = {}
     for file in files:
         # Extract pattern before FC from filename
-        pattern = '_'.join(os.path.basename(file).split('_')[:4])
+        pattern, _ = os.path.basename(file).split(args.split_pattern, 1)
         if pattern not in pattern_dict:
             pattern_dict[pattern] = []
         pattern_dict[pattern].append(file)
@@ -40,14 +38,18 @@ def concatenate_files(input_directory=None, output_directory=None):
             continue
 
         print(f"Files {', '.join(file_group)} were concatenated to {output_file}")
-        with open(output_file, 'wb') as outfile:
-            for file in file_group:
-                with open(file, 'rb') as infile:
-                    outfile.write(infile.read())
+        # with open(output_file, 'wb') as outfile:
+        #     for file in file_group:
+        #         with open(file, 'rb') as infile:
+        #             outfile.write(infile.read())
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Concatenate FASTQ files.')
     parser.add_argument('-o', '--output', help='Output directory', required=True)
+    parser.add_argument('-s','--split_pattern', 
+                    type=str,
+                    help='pattern to split the file names on. Files with identical names before this pattern will be concatenated.',
+                    required=True)
     args = parser.parse_args()
 
     concatenate_files(output_directory=args.output)
