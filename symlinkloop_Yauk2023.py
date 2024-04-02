@@ -44,7 +44,7 @@ def main():
             new_filename = f"{sample_name}.fastq.gz"
             
             # Constructing the new symbolic link path
-            link_path = os.path.join(os.getcwd(), filename)
+            link_path = os.path.join(os.getcwd(), new_filename)
             
             #Tests
             # print(original_path)
