@@ -38,10 +38,10 @@ def concatenate_files(input_directory=None, output_directory=None):
             continue
 
         print(f"Files {', '.join(file_group)} were concatenated to {output_file}")
-        # with open(output_file, 'wb') as outfile:
-        #     for file in file_group:
-        #         with open(file, 'rb') as infile:
-        #             outfile.write(infile.read())
+        with open(output_file, 'wb') as outfile:
+            for file in file_group:
+                with open(file, 'rb') as infile:
+                    outfile.write(infile.read())
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Concatenate FASTQ files.')
