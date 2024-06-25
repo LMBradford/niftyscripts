@@ -2,7 +2,7 @@ import os
 import sys
 import argparse
 
-#Usage: python3 symlinkloop_Yauk2023.py inputfile.txt -s _ -i 0 
+#Usage: python3 symlinkloop_Yauk2023.py inputfile.txt -s _S -i 0 
 # Requires an input file with the full path to the fastq files, one per line.
 
 def create_symbolic_link(original_path, link_path):
@@ -27,7 +27,11 @@ parser.add_argument('-s','--split_pattern',
 parser.add_argument('-i','--index', 
                     type=int, 
                     default=0,
-                    help='index of the part to use as the sample name after splitting the file name. Default is 0')                    
+                    help='index of the part to use as the sample name after splitting the file name. Default is 0')
+parser.add_argument('--test',
+                    required=False,
+                    action='store_true',
+                    help='Test mode: print the original path and the new filename, but do not create the symbolic links')                    
 
 # Parse the arguments
 args = parser.parse_args()
@@ -46,12 +50,12 @@ def main():
             # Constructing the new symbolic link path
             link_path = os.path.join(os.getcwd(), new_filename)
             
-            #Tests
-            # print(original_path)
-            # print(new_filename)
-
-            #Create symbolic link
-            create_symbolic_link(original_path, link_path)
+            # Tests
+            if args.test:
+                print(f"{new_filename} linked to {original_path}")
+            else:
+                #Create symbolic link
+                create_symbolic_link(original_path, link_path)
 
 if __name__ == "__main__":
     main()
