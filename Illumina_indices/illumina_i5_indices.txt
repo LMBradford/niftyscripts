@@ -1,0 +1,475 @@
+I5_Index_ID	i5_fwd_NextSeq2000	i5_revcomp_NextSeq500	Note1
+F904	CTAATGCAC	GTGCATTAG	Biospyder
+F906	GATGGTTGT	ACAACCATC	Biospyder
+F908	AAGGTGTTT	AAACACCTT	Biospyder
+F916	AATTCGGAA	TTCCGAATT	Biospyder
+F927	GACCTTGCT	AGCAAGGTC	Biospyder
+F934	TGCATCTGC	GCAGATGCA	Biospyder
+F935	GACGCGTTA	TAACGCGTC	Biospyder
+F936	AGCCTACTT	AAGTAGGCT	Biospyder
+F937	ATGGTTAGA	TCTAACCAT	Biospyder
+F938	GCTGCGTAT	ATACGCAGC	Biospyder
+F939	TGTAACGGC	GCCGTTACA	Biospyder
+F940	AATAGGTGC	GCACCTATT	Biospyder
+F941	AACACAATC	GATTGTGTT	Biospyder
+F942	TGCCGGTAT	ATACCGGCA	Biospyder
+F943	TAAGTTACG	CGTAACTTA	Biospyder
+F944	AGCTAGACC	GGTCTAGCT	Biospyder
+F910	GGACTAACA	TCTTAGTCC	Biospyder
+F913	CGTAGATTT	AAATCTACG	Biospyder
+F914	GCTCAGCTT	AAGCTGAGC	Biospyder
+F915	GGTATCCTT	AAGGATACC	Biospyder
+F923	CGGAATTGG	GCCTTAACC	Biospyder
+F928	AGATTGAGT	ACTCAATCT	Biospyder
+F930	GCGATAGCA	TGCTATCGC	Biospyder
+F933	CCAAGTCGT	ACGACTTGG	Biospyder
+F946	TAGCGTCAA	TTGACGCTA	Biospyder
+F947	TGTGAGCAT	ATGCTCACA	Biospyder
+F949	TTAGGACTT	AAGTCCTAA	Biospyder
+F951	ATACAGTTC	GAACTGTAT	Biospyder
+F953	TTGGATTCA	TGAATCCAA	Biospyder
+F954	CCGATGTTC	GAACATCGG	Biospyder
+F962	TCTGTCATT	AATGACAGA	Biospyder
+F964	CGTACAAC	GTTGTAGCG	Biospyder
+D501	TATAGCCT	AGGCTATA	Truseq, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/TruSeq/CDIndexes.htm
+D502	ATAGAGGC	GCCTCTAT	Truseq, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/TruSeq/CDIndexes.htm
+D503	CCTATCCT	AGGATAGG	Truseq, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/TruSeq/CDIndexes.htm
+D504	GGCTCTGA	TCAGAGCC	Truseq, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/TruSeq/CDIndexes.htm
+D505	AGGCGAAG	CTTCGCCT	Truseq, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/TruSeq/CDIndexes.htm
+D506	TAATCTTA	TAAGATTA	Truseq, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/TruSeq/CDIndexes.htm
+D507	CAGGACGT	ACGTCCTG	Truseq, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/TruSeq/CDIndexes.htm
+D508	GTACTGAC	GTCAGTAC	Truseq, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/TruSeq/CDIndexes.htm
+UDP0001	TCGTGGAGCG	CGCTCCACGA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0002	CTACAAGATA	TATCTTGTAG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0003V3	TACGTTCATT	AATGAACGTA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0004	TGCCTGGTGG	CCACCAGGCA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0005V3	TCCATCCGAG	CTCGGATGGA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0006	GTCCACTTGT	ACAAGTGGAC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0007	TGGAACAGTA	TACTGTTCCA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0008	CCTTGTTAAT	ATTAACAAGG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0009	GTTGATAGTG	CACTATCAAC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0010	ACCAGCGACA	TGTCGCTGGT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0011	CATACACTGT	ACAGTGTATG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0012	GTGTGGCGCT	AGCGCCACAC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0013	ATCACGAAGG	CCTTCGTGAT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0014	CGGCTCTACT	AGTAGAGCCG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0015	GAATGCACGA	TCGTGCATTC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0016	AAGACTATAG	CTATAGTCTT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0017	TCGGCAGCAA	TTGCTGCCGA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0018	CTAATGATGG	CCATCATTAG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0019	GGTTGCCTCT	AGAGGCAACC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0020	CGCACATGGC	GCCATGTGCG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0021	GGCCTGTCCT	AGGACAGGCC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0022	CTGTGTTAGG	CCTAACACAG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0023	TAAGGAACGT	ACGTTCCTTA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0024	CTAACTGTAA	TTACAGTTAG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0025	GGCGAGATGG	CCATCTCGCC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0026	AATAGAGCAA	TTGCTCTATT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0027	TCAATCCATT	AATGGATTGA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0028	TCGTATGCGG	CCGCATACGA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0029	TCCGACCTCG	CGAGGTCGGA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0030	CTTATGGAAT	ATTCCATAAG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0031	GCTTACGGAC	GTCCGTAAGC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0032	GAACATACGG	CCGTATGTTC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0033	GTCGATTACA	TGTAATCGAC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0034	ACTAGCCGTG	CACGGCTAGT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0035	AAGTTGGTGA	TCACCAACTT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0036	TGGCAATATT	AATATTGCCA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0037	GATCACCGCG	CGCGGTGATC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0038	TACCATCCGT	ACGGATGGTA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0039	GCTGTAGGAA	TTCCTACAGC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0040	CGCACTAATG	CATTAGTGCG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0041	GACAACTGAA	TTCAGTTGTC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0042	AGTGGTCAGG	CCTGACCACT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0043	TTCTATGGTT	AACCATAGAA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0044	AATCCGGCCA	TGGCCGGATT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0045	CCATAAGGTT	AACCTTATGG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0046V3	CTTGTCTTAA	TTAAGACAAG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0047	CGGTGGCGAA	TTCGCCACCG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0048	TAACAATAGG	CCTATTGTTA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0049	CTGGTACACG	CGTGTACCAG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0050	TCAACGTGTA	TACACGTTGA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0051	ACTGTTGTGA	TCACAACAGT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0052	GTGCGTCCTT	AAGGACGCAC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0053V3	CCATGTGTAG	CTACACATGG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0054V3	GAGTCTCTCC	GGAGAGACTC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0055V3	GCTATGCGCA	TGCGCATAGC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0056V3	ATCGCATATG	CATATGCGAT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0057	CGTCGACTGG	CCAGTCGACG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0058	TACTAGTCAA	TTGACTAGTA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0059	ATAGACCGTT	AACGGTCTAT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0060	ACAGTTCCAG	CTGGAACTGT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0061	AGGCATGTAG	CTACATGCCT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0062	GCAAGTCTCA	TGAGACTTGC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0063	TTGGCTCCGC	GCGGAGCCAA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0064	AACTGATACT	AGTATCAGTT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0065	GTAAGGCATA	TATGCCTTAC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0066	AATTGCTGCG	CGCAGCAATT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0067	TTACAATTCC	GGAATTGTAA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0068	AACCTAGCAC	GTGCTAGGTT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0069V3	TCGAAGTACT	AGTACTTCGA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0070V3	GACACCGATG	CATCGGTGTC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0071V3	CTAGCGTCGA	TCGACGCTAG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0072V3	TAGCGAAGCA	TGCTTCGCTA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0073V3	AACACGTGGA	TCCACGTGTT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0074V3	GTGTTACCGG	CCGGTAACAC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0075V3	AGATTGTTAC	GTAACAATCT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0076V3	TTGACCAATG	CATTGGTCAA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0077	CGTTGCTTAC	GTAAGCAACG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0078	TGACTACATA	TATGTAGTCA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0079	CGGCCTCGTT	AACGAGGCCG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0080	CAAGCATCCG	CGGATGCTTG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0081	TCGTCTGACT	AGTCAGACGA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0082	CTCATAGCGA	TCGCTATGAG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0083	AGACACATTA	TAATGTGTCT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0084V3	TCGCCGCTAG	CTAGCGGCGA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0085	CATGAGTACT	AGTACTCATG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0086	ACGTCAATAC	GTATTGACGT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0087	GATACCTCCT	AGGAGGTATC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0088	ATCCGTAAGT	ACTTACGGAT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0089	CGTGTATCTT	AAGATACACG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0090	GAACCATGAA	TTCATGGTTC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0091	GGCCATCATA	TATGATGGCC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0092	ACATACTTCC	GGAAGTATGT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0093	TATGTGCAAT	ATTGCACATA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0094	GATTAAGGTG	CACCTTAATC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0095	ATGTAGACAA	TTGTCTACAT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0096	CACATCGGTG	CACCGATGTG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0097	CCTGATACAA	TTGTATCAGG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0098	TTAAGTTGTG	CACAACTTAA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0099	CGGACAGTGA	TCACTGTCCG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0100	GCACTACAAC	GTTGTAGTGC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0101	TGGTGCCTGG	CCAGGCACCA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0102V3	TGTGTAAGCT	AGCTTACACA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0103	TTGTAGTGTA	TACACTACAA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0104	CCACGACACG	CGTGTCGTGG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0105	TGTGATGTAT	ATACATCACA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0106	GAGCGCAATA	TATTGCGCTC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0107	ATCTTACTGT	ACAGTAAGAT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0108	ATGTCGTGGT	ACCACGACAT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0109	GTAGCCATCA	TGATGGCTAC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0110	TGGTTAAGAA	TTCTTAACCA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0111	TGTTGTTCGT	ACGAACAACA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0112	CCAACAACAT	ATGTTGTTGG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0113	ACCGGCTCAG	CTGAGCCGGT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0114	GTTAATCTGA	TCAGATTAAC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0115	CGGCTAACGT	ACGTTAGCCG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0116	TCCAAGAATT	AATTCTTGGA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0117	CCGAACGTTG	CAACGTTCGG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0118	TAACCGCCGA	TCGGCGGTTA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0119	CTCCGTGCTG	CAGCACGGAG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0120	CATTCCAGCT	AGCTGGAATG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0121	GGTTATGCTA	TAGCATAACC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0122	ACCACACGGT	ACCGTGTGGT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0123	TAGGTTCTCT	AGAGAACCTA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0124	TATGGCTCGA	TCGAGCCATA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0125	CTCGTGCGTT	AACGCACGAG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0126	CCAGTTGGCA	TGCCAACTGG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0127	TGTTCGCATT	AATGCGAACA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0128	AACCGCATCG	CGATGCGGTT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0129	CGAAGGTTAA	TTAACCTTCG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0130	AGTGCCACTG	CAGTGGCACT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0131	GAACAAGTAT	ATACTTGTTC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0132	ACGATTGCTG	CAGCAATCGT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0133	ATACCTGGAT	ATCCAGGTAT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0134	TCCAATTCTA	TAGAATTGGA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0135	TGAGACAGCG	CGCTGTCTCA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0136	ACGCTAATTA	TAATTAGCGT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0137	TATATTCGAG	CTCGAATATA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0138	CGGTCCGATA	TATCGGACCG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0139	ACAATAGAGT	ACTCTATTGT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0140	CGGTTATTAG	CTAATAACCG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0141	GATAACAAGT	ACTTGTTATC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0142	AGTTATCACA	TGTGATAACT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0143	TTCCAGGTAA	TTACCTGGAA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0144	CATGTAGAGG	CCTCTACATG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0145V3	TGAATATTGC	GCAATATTCA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0146V3	CAGGAGCTCT	AGAGCTCCTG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0147V3	TTGTCGGATG	CATCCGACAA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0148V3	GCTAGTTCCG	CGGAACTAGC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0149	AGCGGTGGAC	GTCCACCGCT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0150	TATAGATTCG	CGAATCTATA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0151	ACAGAGGCCA	TGGCCTCTGT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0152	ATTCCTATTG	CAATAGGAAT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0153	TATTCCTCAG	CTGAGGAATA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0154	CGCCTTCTGA	TCAGAAGGCG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0155V3	TTCTTGCTGG	CCAGCAAGAA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0156	GGCGCCAATT	AATTGGCGCC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0157	AGATATGGCG	CGCCATATCT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0158	CCTGCTTGGT	ACCAAGCAGG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0159	GACGAACAAT	ATTGTTCGTC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0160	TGGCGGTCCA	TGGACCGCCA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0161	CTTCAGTTAC	GTAACTGAAG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0162	TCCTGACCGT	ACGGTCAGGA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0163	CGCGCCTAGA	TCTAGGCGCG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0164	AGGATAAGTT	AACTTATCCT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0165	AGGCCAGACA	TGTCTGGCCT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0166	CCTTGAACGG	CCGTTCAAGG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0167	CACCACCTAC	GTAGGTGGTG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0168	TTGCTTGTAT	ATACAAGCAA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0169	CAATCTATGA	TCATAGATTG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0170	TGGTACTGAT	ATCAGTACCA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0171	TTCATCCAAC	GTTGGATGAA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0172	CATAACACCA	TGGTGTTATG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0173	TCCTATTAGC	GCTAATAGGA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0174	TCTCTAGATT	AATCTAGAGA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0175	CGCGAGCCTA	TAGGCTCGCG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0176	GATAAGCTCT	AGAGCTTATC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0177	GAGATGTCGA	TCGACATCTC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0178	CTGGATATGT	ACATATCCAG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0179V3	TGCTCATAAC	GTTATGAGCA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0180	ATTACTCACC	GGTGAGTAAT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0181	AATTGGCGGA	TCCGCCAATT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0182	TTGTCAACTT	AAGTTGACAA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0183	GGCGAATTCT	AGAATTCGCC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0184	CAACGTCAGC	GCTGACGTTG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0185	TCTTACATCA	TGATGTAAGA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0186	CGCCATACCT	AGGTATGGCG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0187	CTAATGTCTT	AAGACATTAG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0188	CAACCGGAGG	CCTCCGGTTG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0189	GGCAGTAGCA	TGCTACTGCC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0190	TTAGGATAGA	TCTATCCTAA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0191	CGCAATCTAG	CTAGATTGCG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0192	GAGTTGTACT	AGTACAACTC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0193V3	GCTCCGGAAG	CTTCCGGAGC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0194V3	TACTTAAGTG	CACTTAAGTA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0195V3	AAGACAAGGA	TCCTTGTCTT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0196V3	TGACATTCGT	ACGAATGTCA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0197	CTGACCGGCA	TGCCGGTCAG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0198	TCTCATCAAT	ATTGATGAGA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0199	GGACCAACAG	CTGTTGGTCC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0200	AATGTATTGC	GCAATACATT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0201	GATCTCTGGA	TCCAGAGATC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0202	CAGGCGCCAT	ATGGCGCCTG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0203	TTAATAGACC	GGTCTATTAA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0204	GGAGTCGCGA	TCGCGACTCC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0205	AACGCCAGAG	CTCTGGCGTT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0206	CGTAATTAAC	GTTAATTACG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0207	ACGAGACTGA	TCAGTCTCGT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0208	GTATCGGCCG	CGGCCGATAC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0209	AATACGACAT	ATGTCGTATT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0210	GTTATATGGC	GCCATATAAC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0211	GCCTGCCATG	CATGGCAGGC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0212	TAAGACCTAT	ATAGGTCTTA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0213	TATACCATGG	CCATGGTATA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0214	GCCGTCTGTT	AACAGACGGC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0215	CAGAGTGATA	TATCACTCTG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0216	TGCTAACTAT	ATAGTTAGCA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0217	TCAGTTAATG	CATTAACTGA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0218V3	TGTAATTGAG	CTCAATTACA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0219	ACATGCATAT	ATATGCATGT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0220	AACATACCTA	TAGGTATGTT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0221V3	GCTTCTAGCA	TGCTAGAAGC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0222V3	CATAGAGCCT	AGGCTCTATG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0223V3	TGAGTATGTT	AACATACTCA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0224V3	GACAATAACA	TGTTATTGTC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0225	AGTACCTATA	TATAGGTACT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0226	GACCGGAGAT	ATCTCCGGTC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0227V3	TAAGTGCTAG	CTAGCACTTA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0228	TTACTTCCTC	GAGGAAGTAA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0229	CACGTCCACC	GGTGGACGTG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0230	GCTACTATCT	AGATAGTAGC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0231	AGTCAACCAT	ATGGTTGACT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0232	CGAGGCGGTA	TACCGCCTCG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0233	CAGGTGTTCA	TGAACACCTG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0234	GACAGACAGG	CCTGTCTGTC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0235	TGTACTTGTT	AACAAGTACA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0236	CTCTAAGTAG	CTACTTAGAG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0237	GTCACCACAG	CTGTGGTGAC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0238	TCTACATACC	GGTATGTAGA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0239	CACGTTAGGC	GCCTAACGTG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0240	TGGTGAGTCT	AGACTCACCA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0241	CTTCGAAGGA	TCCTTCGAAG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0242V3	TACGAATCTT	AAGATTCGTA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0243	GACATTGTCA	TGACAATGTC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0244V3	TACCAGATCT	AGATCTGGTA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0245	ACTGCCTTAT	ATAAGGCAGT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0246	TACGCACGTA	TACGTGCGTA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0247	CGCTTGAAGT	ACTTCAAGCG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0248	CTGCACTTCA	TGAAGTGCAG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0249	CAGCGGACAA	TTGTCCGCTG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0250	GGATCCGCAT	ATGCGGATCC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0251	TGCGGTGTTG	CAACACCGCA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0252V2	ATGAATCAAG	CTTGATTCAT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0253	GACGTTCGCG	CGCGAACGTC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0254	CATTCAACAA	TTGTTGAATG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0255	CACGGATTAT	ATAATCCGTG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0256V3	TGTCACAGGA	TCCTGTGACA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0257	CTCTGTATAC	GTATACAGAG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0258V2	TCTCGCGGAG	CTCCGCGAGA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0259	GGTAACGCAG	CTGCGTTACC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0260	ACCGCGCAAT	ATTGCGCGGT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0261	AGCCGGAACA	TGTTCCGGCT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0262	TCCTAGGAAG	CTTCCTAGGA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0263	TTGAGCCTAA	TTAGGCTCAA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0264	CCACCTGTGT	ACACAGGTGG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0265V3	TCGATGCGCG	CGCGCATCGA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0266V3	CCTAGAAGCA	TGCTTCTAGG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0267V3	GACGTATACA	TGTATACGTC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0268V3	TAGGCGACTT	AAGTCGCCTA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0269	TAGGAGCGCA	TGCGCTCCTA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0270	GTACTGGCGT	ACGCCAGTAC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0271	AGTTAAGAGC	GCTCTTAACT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0272	TCGCGTATAA	TTATACGCGA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0273	GAGTGTGCCG	CGGCACACTC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0274	CTAGTCCGGA	TCCGGACTAG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0275	ATTAATACGC	GCGTATTAAT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0276	CCTAGAGTAT	ATACTCTAGG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0277	TAGGAAGACT	AGTCTTCCTA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0278	CCGTGGCCTT	AAGGCCACGG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0279	GGATATATCC	GGATATATCC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0280	CACCTCTTGG	CCAAGAGGTG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0281	AACGTTACAT	ATGTAACGTT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0282	CGGCAAGCTC	GAGCTTGCCG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0283	TCTTGGCTAT	ATAGCCAAGA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0284	ACGGAATGCG	CGCATTCCGT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0285V3	GACCGATTCG	CGAATCGGTC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0286V3	TAGGTGAGAT	ATCTCACCTA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0287V3	CACGTACGTG	CACGTACGTG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0288V3	TTGACCTAAC	GTTAGGTCAA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0289V2	GGCACGCCAT	ATGGCGTGCC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0290V2	GCAGGCTGGA	TCCAGCCTGC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0291V2	ATGGCTTAAT	ATTAAGCCAT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0292	CGGTGACACC	GGTGTCACCG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0293	GCGTTGGTAT	ATACCAACGC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0294	TGTGCTAACA	TGTTAGCACA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0295	CCAGAAGTAA	TTACTTCTGG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0296	CTTATACCTG	CAGGTATAAG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0297	ACTAGAACTT	AAGTTCTAGT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0298V3	GAATGCAGTT	AACTGCATTC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0299	TATCATGAGA	TCTCATGATA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0300	CTCACACAAG	CTTGTGTGAG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0301V2	AGTTACTTGG	CCAAGTAACT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0302	CGGATTATAT	ATATAATCCG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0303	TTGAAGCAGA	TCTGCTTCAA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0304	TACGGCGAAG	CTTCGCCGTA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0305	TCTCCATTGA	TCAATGGAGA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0306	CGAGACCAAG	CTTGGTCTCG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0307	TGCTGGACAT	ATGTCCAGCA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0308	GATGGTATCG	CGATACCATC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0309	GGCTTAATTG	CAATTAAGCC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0310	CTCGACTCCT	AGGAGTCGAG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0311	ATACACAGAG	CTCTGTGTAT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0312	TCTCGGACGA	TCGTCCGAGA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0313	ACCACGTCTG	CAGACGTGGT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0314	GTTGTACTCA	TGAGTACAAC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0315	TCAGGTCAAC	GTTGACCTGA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0316	AGTCCGAGGA	TCCTCGGACT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0317	CACTTAATCT	AGATTAAGTG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0318	TACTCTGTTA	TAACAGAGTA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0319	GCGACTCGAT	ATCGAGTCGC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0320	CTAGGCAAGG	CCTTGCCTAG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0321V3	AATAGAACGG	CCGTTCTATT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0322	TCATCCTCTT	AAGAGGATGA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0323	GGTAAGATAA	TTATCTTACC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0324	AACGAGCCAG	CTGGCTCGTT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0325	TAGACAATCT	AGATTGTCTA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0326	CAATGCTGAA	TTCAGCATTG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0327	GTCACGGTGT	ACACCGTGAC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0328	GGTGTACAAG	CTTGTACACC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0329	AGGTTGCAGG	CCTGCAACCT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0330	TAATACGGAG	CTCCGTATTA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0331	CGAAGACGCA	TGCGTCTTCG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0332	ATTGACACAT	ATGTGTCAAT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0333	CAGCCGATTG	CAATCGGCTG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0334	TCTCACGCGT	ACGCGTGAGA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0335	CTCTGACGTG	CACGTCAGAG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0336	TCGAATGGAA	TTCCATTCGA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0337	AAGGCCTTGG	CCAAGGCCTT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0338	TGAACGCAAC	GTTGCGTTCA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0339	CCGCTTAGCT	AGCTAAGCGG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0340	CACCGAGGAA	TTCCTCGGTG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0341	CGTATAATCA	TGATTATACG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0342	ATGACAGAAC	GTTCTGTCAT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0343	ATTCATTGCA	TGCAATGAAT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0344	TCATGTCCTG	CAGGACATGA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0345	AATTCGATCG	CGATCGAATT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0346	TTCCGACATT	AATGTCGGAA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0347	TGGCACGACC	GGTCGTGCCA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0348	GCCACAGCAC	GTGCTGTGGC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0349	CAGTAGTTGT	ACAACTACTG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0350	AGCTCTCAAG	CTTGAGAGCT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0351	TCTGGAATTA	TAATTCCAGA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0352	ATTAGTGGAG	CTCCACTAAT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0353	GACTATATGT	ACATATAGTC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0354	CGTTCGGAAC	GTTCCGAACG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0355	TCGATACTAG	CTAGTATCGA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0356	TACCACAATG	CATTGTGGTA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0357	TGGTATACCA	TGGTATACCA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0358	GCTCTCGTTG	CAACGAGAGC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0359	GTCTCGTGAA	TTCACGAGAC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0360	AAGGCCACCT	AGGTGGCCTT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0361	CTGTGAGCTA	TAGCTCACAG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0362	TCACAGATCG	CGATCTGTGA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0363	AGAAGCCAAT	ATTGGCTTCT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0364	ACTGCAGCCG	CGGCTGCAGT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0365	AACATCTAGT	ACTAGATGTT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0366	CCTTACTATG	CATAGTAAGG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0367	GTGGCGAGAC	GTCTCGCCAC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0368	GCCAGATCCA	TGGATCTGGC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0369V3	TGCTGTGATT	AATCACAGCA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0370V3	GATCGAATAA	TTATTCGATC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0371V3	ACTGAATTAC	GTAATTCAGT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0372V3	CCATCCACGC	GCGTGGATGG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0373	GTTGCAGTTG	CAACTGCAAC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0374	TTATGCGCCT	AGGCGCATAA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0375	TCTCAGTACA	TGTACTGAGA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0376	AGTATACGGA	TCCGTATACT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0377	ACGCTTGGAC	GTCCAAGCGT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0378	GGAGTAGATT	AATCTACTCC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0379	TACACGCTCC	GGAGCGTGTA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0380	TCCGATAGAG	CTCTATCGGA	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0381	CTCAAGGCCG	CGGCCTTGAG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0382	CAAGTTCATA	TATGAACTTG	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0383	AATCCTTAGG	CCTAAGGATT	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+UDP0384	GGTGGAATAC	GTATTCCACC	Illumina Unique Dual Indexes, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Illumina_DNA/IlluminaUDIndexes.htm
+[E/H/N/S]501	TAGATCGC	GCGATCTA	Nextera, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Nextera/NexteraDNAIndexes.htm
+[E/H/N/S]502	CTCTCTAT	ATAGAGAG	Nextera, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Nextera/NexteraDNAIndexes.htm
+[E/H/N/S]503	TATCCTCT	AGAGGATA	Nextera, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Nextera/NexteraDNAIndexes.htm
+[E/H/N/S]504	AGAGTAGA	TCTACTCT	Nextera, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Nextera/NexteraDNAIndexes.htm
+[E/H/N/S]505	GTAAGGAG	CTCCTTAC	Nextera, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Nextera/NexteraDNAIndexes.htm
+[E/H/N/S]506	ACTGCATA	TATGCAGT	Nextera, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Nextera/NexteraDNAIndexes.htm
+[E/H/N/S]507	AAGGAGTA	TACTCCTT	Nextera, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Nextera/NexteraDNAIndexes.htm
+[E/H/N/S]508	CTAAGCCT	AGGCTTAG	Nextera, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Nextera/NexteraDNAIndexes.htm
+[E/H/N/S]510	CGTCTAAT	ATTAGACG	Nextera, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Nextera/NexteraDNAIndexes.htm
+[E/H/N/S]511	TCTCTCCG	CGGAGAGA	Nextera, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Nextera/NexteraDNAIndexes.htm
+[E/H/N/S]513	TCGACTAG	CTAGTCGA	Nextera, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Nextera/NexteraDNAIndexes.htm
+[E/H/N/S]515	TTCTAGCT	AGCTAGAA	Nextera, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Nextera/NexteraDNAIndexes.htm
+[E/H/N/S]516	CCTAGAGT	ACTCTAGG	Nextera, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Nextera/NexteraDNAIndexes.htm
+[E/H/N/S]517	GCGTAAGA	TCTTACGC	Nextera, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Nextera/NexteraDNAIndexes.htm
+[E/H/N/S]518	CTATTAAG	CTTAATAG	Nextera, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Nextera/NexteraDNAIndexes.htm
+[E/H/N/S]520	AAGGCTAT	ATAGCCTT	Nextera, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Nextera/NexteraDNAIndexes.htm
+[E/H/N/S]521	GAGCCTTA	TAAGGCTC	Nextera, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Nextera/NexteraDNAIndexes.htm
+[E/H/N/S]522	TTATGCGA	TCGCATAA	Nextera, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/Nextera/NexteraDNAIndexes.htm
+Q5001	AGCGCTAG	CTAGCGCT	Ampliseq, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/AmpliSeq/SequencesAmpliSeq.htm
+Q5002	GATATCGA	TCGATATC	Ampliseq, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/AmpliSeq/SequencesAmpliSeq.htm
+Q5003	CGCAGACG	CGTCTGCG	Ampliseq, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/AmpliSeq/SequencesAmpliSeq.htm
+Q5004	TATGAGTA	TACTCATA	Ampliseq, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/AmpliSeq/SequencesAmpliSeq.htm
+Q5007	ACATAGCG	CGCTATGT	Ampliseq, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/AmpliSeq/SequencesAmpliSeq.htm
+Q5008	GTGCGATA	TATCGCAC	Ampliseq, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/AmpliSeq/SequencesAmpliSeq.htm
+Q5009	CCAACAGA	TCTGTTGG	Ampliseq, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/AmpliSeq/SequencesAmpliSeq.htm
+Q5010	TTGGTGAG	CTCACCAA	Ampliseq, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/AmpliSeq/SequencesAmpliSeq.htm
+Q5013	AACCGCGG	CCGCGGTT	Ampliseq, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/AmpliSeq/SequencesAmpliSeq.htm
+Q5014	GGTTATAA	TTATAACC	Ampliseq, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/AmpliSeq/SequencesAmpliSeq.htm
+Q5017	CTAGCTTG	CAAGCTAG	Ampliseq, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/AmpliSeq/SequencesAmpliSeq.htm
+Q5018	TCGATCCA	TGGATCGA	Ampliseq, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/AmpliSeq/SequencesAmpliSeq.htm
+Q5025	ATACCAAG	CTTGGTAT	Ampliseq, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/AmpliSeq/SequencesAmpliSeq.htm
+Q5026	GCGTTGGA	TCCAACGC	Ampliseq, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/AmpliSeq/SequencesAmpliSeq.htm
+Q5027	CTTCACGG	CCGTGAAG	Ampliseq, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/AmpliSeq/SequencesAmpliSeq.htm
+Q5028	TCCTGTAA	TTACAGGA	Ampliseq, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/AmpliSeq/SequencesAmpliSeq.htm
+Q5029	CCTCGGTA	TACCGAGG	Ampliseq, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/AmpliSeq/SequencesAmpliSeq.htm
+Q5030	TTCTAACG	CGTTAGAA	Ampliseq, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/AmpliSeq/SequencesAmpliSeq.htm
+Q5031	CGCTCGTG	CACGAGCG	Ampliseq, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/AmpliSeq/SequencesAmpliSeq.htm
+Q5032	TATCTACA	TGTAGATA	Ampliseq, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/AmpliSeq/SequencesAmpliSeq.htm
+Q5035	CATTGTTG	CAACAATG	Ampliseq, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/AmpliSeq/SequencesAmpliSeq.htm
+Q5036	TGCCACCA	TGGTGGCA	Ampliseq, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/AmpliSeq/SequencesAmpliSeq.htm
+Q5039	ACGCCGCA	TGCGGCGT	Ampliseq, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/AmpliSeq/SequencesAmpliSeq.htm
+Q5040	GTATTATG	CATAATAC	Ampliseq, https://support-docs.illumina.com/SHARE/AdapterSequences/Content/SHARE/AdapterSeq/AmpliSeq/SequencesAmpliSeq.htm
+			
+			
+			
+			
+			
+			
+			
+			
