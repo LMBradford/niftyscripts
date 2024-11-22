@@ -2,7 +2,7 @@ import os
 import sys
 import argparse
 
-#Usage: python3 symlinkloop_Yauk2023.py inputfile.txt -s _S -i 0 
+#Usage: python3 symlinkloop.py inputfile.txt -s _S -i 0 
 # Requires an input file with the full path to the fastq files, one per line.
 
 def create_symbolic_link(original_path, link_path):
