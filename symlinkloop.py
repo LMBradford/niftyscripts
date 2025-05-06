@@ -2,8 +2,12 @@ import os
 import sys
 import argparse
 
-#Usage: python3 symlinkloop.py inputfile.txt -s _S -i 0 
+#Usage: python3 symlinkloop.py inputfile.txt --split_pattern _S --index 0 
 # Requires an input file with the full path to the fastq files, one per line.
+# Use --test to see anticipated output without actually running
+# Use the splitter (--split-pattern and --index) to keep only the desired parts of the file name.
+## Usual use is --split-pattern _S and -i 0. This removes the ex. "_S1_R1_001" part which is generally unwanted
+## Problems arise if researcher used _S in sample names. Tell them not to do that.
 
 def create_symbolic_link(original_path, link_path):
     try:
@@ -12,10 +16,8 @@ def create_symbolic_link(original_path, link_path):
     except FileExistsError:
         print(f"Symbolic link already exists: {link_path}")
 
-# Create the parser
 parser = argparse.ArgumentParser(description='Create symbolic links to fastq files.')
 
-# Add the arguments
 parser.add_argument('input_file', 
                     type=str, 
                     help='the input file containing the original file paths')
@@ -41,20 +43,20 @@ def main():
         for line in file:
             original_path = line.strip()
             
-            # Extracting relevant information from the filename
+            # Extract relevant information from the filename
             filename = os.path.basename(original_path)
             parts = filename.split(args.split_pattern)
             sample_name = parts[args.index]
             new_filename = f"{sample_name}.fastq.gz"
             
-            # Constructing the new symbolic link path
+            # Construct the new symbolic link path
             link_path = os.path.join(os.getcwd(), new_filename)
             
             # Tests
             if args.test:
                 print(f"{new_filename} linked to {original_path}")
             else:
-                #Create symbolic link
+                # Actually create symbolic link
                 create_symbolic_link(original_path, link_path)
 
 if __name__ == "__main__":
