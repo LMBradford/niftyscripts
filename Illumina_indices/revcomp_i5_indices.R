@@ -5,7 +5,8 @@
 # Example: Rscript revcomp_i5_indices.R test_file.csv nextseq500
 # Options for seqtype: nextseq500, nextseq2000
 
-# Suppress package startup messages
+# NOTE that this script will create test_file_original.csv and OVERWRITE test_file.csv with the corrected version
+
 suppressPackageStartupMessages(library(dplyr))
 
 # Get the test file name from the command line arguments
@@ -13,12 +14,11 @@ args <- commandArgs(trailingOnly = TRUE)
 test_file <- args[1]
 
 seqtype <- args[2]
-
-# Put args[2] in all lower case
-seqtype <- tolower(seqtype)
+seqtype <- tolower(seqtype) # Put seqtype in lowercase to avoid mismatches
 
 # Read the illumina_i5_indices.txt file
-illumina_df <- read.delim("illumina_i5_indices.txt", header = TRUE, stringsAsFactors = FALSE)
+illumina_df <- read.delim("/mnt/user_data/shared_scripts/demultipex_illumina/illumina_i5_indices.txt", 
+                          header = TRUE, stringsAsFactors = FALSE)
 
 # Read the test CSV file as lines to find the row with "Sample_ID"
 lines <- readLines(test_file)
@@ -55,9 +55,16 @@ new_df$corrected_i5 <- NULL
 
 # Get the header lines from the original file
 header_lines <- lines[1:(start_row - 1)]
-
-# Write the corrected file with header lines and the new df
 file_name <- sub("\\.[^.]*$", "", test_file)
 
-writeLines(header_lines, paste0(file_name, "_i5corrected.csv"))
-write.table(new_df, file = paste0(file_name, "_i5corrected.csv"), row.names = FALSE, col.names = TRUE, sep = ",", append = TRUE, quote = FALSE)
+# Save the original file for posterity
+writeLines(header_lines, paste0(file_name, "_original.csv"))
+write.table(test_df, file = paste0(file_name, "_original.csv"),
+            row.names = FALSE, col.names = TRUE,
+            sep = ",", append = TRUE, quote = FALSE)
+
+# Write the corrected file with header lines and the new df
+writeLines(header_lines, paste0(file_name, ".csv"))
+write.table(new_df, file = paste0(file_name, ".csv"),
+            row.names = FALSE, col.names = TRUE,
+            sep = ",", append = TRUE, quote = FALSE)
