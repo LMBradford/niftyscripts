@@ -41,7 +41,7 @@ if not args.outdir.endswith('/'):
 	args.outdir = args.outdir + '/'
 
 # Find sample names
-#Presumes all samples are in the first directory on the list!
+# Presumes all samples are in the first directory on the list!
 SAMPLEPATHS = glob(f'{args.inputdirs[0]}*.{args.extension}')
 
 # Get sample names without path
@@ -57,7 +57,7 @@ for f in SAMPLEFILES:
 		if f not in filepaths:
 			filepaths[f] = []
 		filepaths[f].append(d)
- 
+
 # Concatenate files into output directory
 for f in filepaths:
 	x = []
@@ -65,7 +65,7 @@ for f in filepaths:
 		x.append(f'{i}{f}')
 	tocat = ' '.join(x)
 
-	samplename = f.split('.')[0] # Take sample name before first period
+	samplename = f.split('.')[0]  # Take sample name before first period
 	cmd = f'cat {tocat} > {args.outdir}{samplename}.{args.extension}'
 
 	# Test mode
