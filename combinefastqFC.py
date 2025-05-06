@@ -29,12 +29,11 @@ Path(args.outdir).mkdir(parents=True, exist_ok=True)
 
 # Add slashes to end of dirs if not already there
 for i in range(len(args.inputdirs)):
-	if args.inputdirs[i].endswith('/') == False:
+	if not args.inputdirs[i].endswith('/'):
 		args.inputdirs[i] = args.inputdirs[i] + '/'
 
-if args.outdir.endswith('/') == False:
+if not args.outdir.endswith('/'):
 	args.outdir = args.outdir + '/'
-
 
 # Find sample names
 #Presumes all samples are in the first directory on the list!
