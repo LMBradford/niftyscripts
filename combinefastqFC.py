@@ -2,6 +2,9 @@
 # Same name per sample, but each run in different dir
 # Concatenate all fastq for a sample together
 
+# Usage: python combinefastqFC.py -i /path/to/dir1/ /path/to/dir2/ -o /path/to/outputdir/ -e fastq.gz
+# Use --test flag to see what will be done without actually doing it
+
 import os
 from glob import glob
 from argparse import ArgumentParser
@@ -9,19 +12,21 @@ from pathlib import Path
 
 # Arguments
 parser = ArgumentParser(
-	description = 
+	description=
 	'''
 	Goal: Concatenate fastq.gz files that have the same name but are in different directory (i.e. same sample, multiple sequencing runs).
 	Files must be all have the same extension (specify in command).
 	Give full directory paths. Relative paths will probably break things (not tested).
 	Output directory MUST be different from input directory or you will overwrite original files and be in REAL trouble.
 	''')
+
 parser.add_argument('-i', '--inputdirs', nargs='+', default=[],
-	help = 'full paths to input directories, space separated. Include final / !')
+					help='full paths to input directories, space separated. Include final / !')
 parser.add_argument('-o', '--outdir',
-	help = 'full path to output directory. Include final / !')
+					help='full path to output directory. Include final / !')
 parser.add_argument('-e', '--extension',
-	help = 'specify fastq.gz or fq.gz. Must be gzipped!')
+					help='specify fastq.gz or fq.gz. Must be gzipped!')
+parser.add_argument('-t', '--test', action='store_true')
 args = parser.parse_args()
 
 # Make output directory if not preexisting
@@ -62,7 +67,13 @@ for f in filepaths:
 
 	samplename = f.split('.')[0] # Take sample name before first period
 	cmd = f'cat {tocat} > {args.outdir}{samplename}.{args.extension}'
-	print(f'Created {args.outdir}{samplename}.{args.extension}')
-	os.system(cmd) # Uncomment after testing if you're sure!
+
+	# Test mode
+	if args.test:
+		print(f'Will create {args.outdir}{samplename}.{args.extension} with command: {cmd}')
+
+	if not args.test:
+		os.system(cmd)
+		print(f'Created {args.outdir}{samplename}.{args.extension}')
 
 # print(cmd) # For testing
